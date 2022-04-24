@@ -1,0 +1,23 @@
+{
+ "cSpell.words": ["keeplist", "onupgradedneeded"],
+ "workbench.colorCustomizations": {
+  "activityBar.activeBackground": "#04d2b1",
+  "activityBar.activeBorder": "#d305fa",
+  "activityBar.background": "#04d2b1",
+  "activityBar.foreground": "#15202b",
+  "activityBar.inactiveForeground": "#15202b99",
+  "activityBarBadge.background": "#d305fa",
+  "activityBarBadge.foreground": "#e7e7e7",
+  "sash.hoverBorder": "#04d2b1",
+  "statusBar.background": "#03a087",
+  "statusBar.foreground": "#e7e7e7",
+  "statusBarItem.hoverBackground": "#04d2b1",
+  "statusBarItem.remoteBackground": "#03a087",
+  "statusBarItem.remoteForeground": "#e7e7e7",
+  "titleBar.activeBackground": "#03a087",
+  "titleBar.activeForeground": "#e7e7e7",
+  "titleBar.inactiveBackground": "#03a08799",
+  "titleBar.inactiveForeground": "#e7e7e799"
+ },
+ "peacock.color": "#03a087"
+}
