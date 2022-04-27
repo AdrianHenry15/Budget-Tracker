@@ -1,6 +1,6 @@
 {
-    "short_name": "budget-app",
-    "name": "Budget Tracker",
+    "short_name": "track-buddy-budget-tracker",
+    "name": "budget-app",
     "icons": [
         {
         "src": "/public/icons/icon-72x72.png",
