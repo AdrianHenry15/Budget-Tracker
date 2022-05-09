@@ -1,4 +1,4 @@
-Budget-Tracker
+# Budget-Tracker
 ## [Link](https://track-buddy-budget-tracker2-3ly0tltqg-adrianhenry15.vercel.app/)
 # Description
 This application allows the user to track their financial information online and offline. If the user enters any transactions offline, the total will be updated when the are brought back online.
